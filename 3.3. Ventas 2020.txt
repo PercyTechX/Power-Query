@@ -1,0 +1,8 @@
+Papeleria La Grandiosa
+Reporte anual de ventas 2020
+
+Fecha	Cuenta	Depto	Suma	
+01/12/2020	61510	150	-$24.28	
+01/12/2020	61520	150	-$167.00	
+01/12/2020	61530	150	-$13.64	
+
